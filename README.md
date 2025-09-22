@@ -88,6 +88,10 @@ The traveler’s experience is divided into two stages: **Pre-booking** and **Po
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## References
+
+This project is based on similar template provided under google adk samples repository.
+
 ### Architecture
 VacAI Architecture
 <img src="vacAI-arch.png" alt="VacAI's Multi-Agent Architecture"/>
